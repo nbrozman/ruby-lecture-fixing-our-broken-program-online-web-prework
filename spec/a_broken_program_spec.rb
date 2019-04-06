@@ -5,5 +5,3 @@ describe 'A broken program' do
       load 'lib/a_broken_program.rb'
     }.to raise_error
   end
-
-end
